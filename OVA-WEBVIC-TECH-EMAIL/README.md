@@ -10,7 +10,7 @@ Environment variables (recommended):
 
   # Optional SMTP (for real email sending). If not set, backend will not send real emails.
   SMTP_HOST=smtp.gmail.com
-  SMTP_PORT=587
+  SMTP_PORT=465
   SMTP_USER=your-smtp-username
   SMTP_PASS=your-smtp-password
   SMTP_FROM=Optional display-from address
